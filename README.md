@@ -1,6 +1,7 @@
 # Hallo, ich bin Korsa 👋 | Webentwickler & Open-Source-Enthusiast
 
-Als Webentwickler bringe ich Kreativität und technische Expertise zusammen, um innovative und benutzerfreundliche Anwendungen zu gestalten. Mein Schwerpunkt liegt auf der Entwicklung moderner Weblösungen und der kontinuierlichen Erweiterung meines Wissens im Bereich Cloud- und Container-Technologien.
+Als Webentwickler bringe ich Kreativität und technische Expertise zusammen, um innovative und benutzerfreundliche Anwendungen zu gestalten. 
+Mein Schwerpunkt liegt auf der Entwicklung moderner Weblösungen und der kontinuierlichen Erweiterung meines Wissens.
 
 ---
 
