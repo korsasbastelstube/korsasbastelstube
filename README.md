@@ -36,8 +36,8 @@ Mein Schwerpunkt liegt auf der Entwicklung moderner Weblösungen und der kontinu
 ---
 
 ## 📫 **Kontakt:**
-- 💼 LinkedIn: [Dein LinkedIn-Profil (optional)]
+- 💼 LinkedIn:(https://www.linkedin.com/in/korsa-lazaro-638145340/)
 - ✉️ E-Mail: korsasbastelstube@gmail.com
-- 🌐 Portfolio/Website: [deineWebsite.com (optional)]
+- 🌐 Portfolio/Website: 
 
 
