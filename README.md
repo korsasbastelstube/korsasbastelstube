@@ -36,7 +36,7 @@ Als Webentwickler bringe ich Kreativität und technische Expertise zusammen, um 
 
 ## 📫 **Kontakt:**
 - 💼 LinkedIn: [Dein LinkedIn-Profil (optional)]
-- ✉️ E-Mail: [deineE-Mail@example.com]
+- ✉️ E-Mail: korsasbastelstube@gmail.com
 - 🌐 Portfolio/Website: [deineWebsite.com (optional)]
 
 
